@@ -1,5 +1,5 @@
 !SLIDE center light-on-dark
-![background](1280_Violet World.jpg)
+![background](1280_Violet_World.jpg)
 # The Team
 
 !SLIDE incremental full-page

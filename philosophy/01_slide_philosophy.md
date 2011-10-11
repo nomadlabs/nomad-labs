@@ -1,20 +1,20 @@
 !SLIDE center light-on-dark
-![background](1280_Violet World.jpg)
+![background](1280_Violet_World.jpg)
 # Nomad Labs #
 ### Get to know us - 2011 ###
 
 !SLIDE center light-on-dark
-![background](1280_Violet World.jpg)
+![background](1280_Violet_World.jpg)
 # "Our questioning is learning ..."
 ### - our philosophy
 
 !SLIDE center light-on-dark
-![background](1280_Violet World.jpg)
+![background](1280_Violet_World.jpg)
 # "our look is reflection ..."
 ### - our philosophy
 
 !SLIDE center light-on-dark
-![background](1280_Violet World.jpg)
+![background](1280_Violet_World.jpg)
 # "... and our actions are the solutions"
 ### - our philosophy
 
