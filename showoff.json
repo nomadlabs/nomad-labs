@@ -1,9 +1,11 @@
 { "name": "Nomad Labs Pty Ltd",
-        "sections": [
-        {"section":"philosophy"},
-        {"section":"team"},
-        {"section":"projects"},
-        {"section":"expertise"},
-        {"section":"services"},
-        {"section":"wrapup"}
-        ]}
+  "sections": 
+  [
+    {"section":"philosophy"},
+    {"section":"team"},
+    {"section":"projects"},
+    {"section":"expertise"},
+    {"section":"services"},
+    {"section":"wrapup"}
+  ]
+}
