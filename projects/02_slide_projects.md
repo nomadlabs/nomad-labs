@@ -15,4 +15,4 @@
 !SLIDE full-page
 # AusAID Risk in a Box (The Demo)
 
-<iframe src="http://player.vimeo.com/video/30383882?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=1" width="640" height="480" frameborder="0" allowFullScreen></iframe>
+<iframe src="http://player.vimeo.com/video/30383882?title=0&amp;byline=0&amp;portrait=0" width="640" height="480" frameborder="0" allowFullScreen></iframe>
